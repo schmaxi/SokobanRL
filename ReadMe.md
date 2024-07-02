@@ -9,6 +9,7 @@ For further Information i refer to the NetLogo-file.
 
 ## Python
 The submodule 'gym_sokoban' is a forked repository from https://github.com/mpSchrader/gym-sokoban that was updated to support Gym v26 and extended with two environments.
+I deleted the fork to display my changes, including the added files in the Python subfolder. For the original work by mpSchrader, please refer to his GitHub. **All credit for the base environment belongs to him!**
 In the Tabular_QLearning.py-file, a QLearning-agent is defined along with the implementation to train that agent.
 The DQN.py is implemented using stable-baselines3.
 
